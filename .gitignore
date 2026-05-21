@@ -1,0 +1,16 @@
+node_modules
+.eslintcache
+tsc
+dist
+.DS_Store
+*/**/*.g.ts
+.cache
+coverage/
+site/
+docs/*
+!docs/assets/extra.css
+!docs/assets/logo.svg
+!docs/README.md
+!docs/types.md
+!docs/sprite.md
+!docs/deprecations.md
