@@ -12,7 +12,7 @@
     "mapvina-gl-js"
   ],
   "license": "ISC",
-  "homepage": "https://mapvina.com/mapvina-style-spec/",
+  "homepage": "https://mapvina.io/github/mapvina-style-spec/",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapvina/mapvina-style-spec"
+    "url": "https://github.io/github/mapvina/mapvina-style-spec"
   },
   "bin": {
     "gl-style-migrate": "dist/gl-style-migrate.mjs",

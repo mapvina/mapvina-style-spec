@@ -9,7 +9,7 @@ A MapVina style is a document that defines the visual appearance of a map: what 
 The intended audience of this specification includes:
 
 -   Advanced designers and cartographers who want to write styles by hand.
--   Developers using style-related features of [MapVina GL JS](https://github.com/mapvina/mapvina-gl-js) or the [MapVina Native for Android and iOS](https://github.com/mapvina/mapvina-native).
+-   Developers using style-related features of [MapVina GL JS](https://github.io/github/mapvina/mapvina-gl-js) or the [MapVina Native for Android and iOS](https://github.io/github/mapvina/mapvina-native).
 -   Authors of software that generates or processes MapVina styles.
 
 ## Style document structure

@@ -1,6 +1,6 @@
 ## Filter
 
-Filter expressions are used to target specific data in a layer. This library implements the semantics specified by the [MapVina GL JS spec](https://mapvina.com/mapvina-gl-js-docs/style-spec/).
+Filter expressions are used to target specific data in a layer. This library implements the semantics specified by the [MapVina GL JS spec](https://mapvina.io/github/mapvina-gl-js-docs/style-spec/).
 
 ### API
 

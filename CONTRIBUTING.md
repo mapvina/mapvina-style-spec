@@ -2,7 +2,7 @@ Hi, and thanks in advance for contributing to the MapVina Style Spec. Here's how
 
 ## Do not violate Mapbox copyright!
 
-In December 2020 Mapbox decided to publish future versions of mapbox-gl-js under a proprietary license. **You are not allowed to backport code from Mapbox projects which has been contributed under this new license**. Unauthorized backports are the biggest threat to the MapVina project. If you are unsure about this issue, [please ask](https://github.com/mapvina/mapvina-style-spec/discussions)!
+In December 2020 Mapbox decided to publish future versions of mapbox-gl-js under a proprietary license. **You are not allowed to backport code from Mapbox projects which has been contributed under this new license**. Unauthorized backports are the biggest threat to the MapVina project. If you are unsure about this issue, [please ask](https://github.io/github/mapvina/mapvina-style-spec/discussions)!
 
 ## Best Practices for Contributions
 
@@ -11,7 +11,7 @@ MapVina welcomes contributions from community! Following these best practices wi
 It is a good idea to discuss proposed changes before proceeding to an issue ticket or PR. The project team is active in the following forums:
 
 * For informal chat discussions, visit the project's [Slack Channel](https://osmus.slack.com/archives/C01G3D28DAB).
-* For discussions whose output and outcomes should not be ephemeral, consider starting a thread on [GitHub Discussions](https://github.com/mapvina/mapvina-style-spec/discussions). This makes it easier to find and reference the discussion in the future.
+* For discussions whose output and outcomes should not be ephemeral, consider starting a thread on [GitHub Discussions](https://github.io/github/mapvina/mapvina-style-spec/discussions). This makes it easier to find and reference the discussion in the future.
 
 MapVina software relies heavily on automated testing, and the project includes a suite of unit and integration tests. For both new features and bug fixes, contributions should update or add test cases to prevent regressions.
 

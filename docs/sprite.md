@@ -100,7 +100,7 @@ The following image gives a bit more infomation regarding the stretch properties
 }
 ```
 The red highlighted part is where the stretch will occur over the Y axis and the blue highlight is for the X axis.
-![popup-stretch](https://mapvina.com/mapvina-gl-js/docs/assets/popup_debug.png)
+![popup-stretch](https://mapvina.io/github/mapvina-gl-js/docs/assets/popup_debug.png)
 
 #### Text Fit Properties
 

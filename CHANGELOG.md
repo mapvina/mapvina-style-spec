@@ -9,87 +9,87 @@
 
 ### 🐞 Bug fixes
 
-- Added missing exported types ([#1638](https://github.com/mapvina/mapvina-style-spec/pull/1638)) (by [@scottg521](https://github.com/scottg521))
+- Added missing exported types ([#1638](https://github.io/github/mapvina/mapvina-style-spec/pull/1638)) (by [@scottg521](https://github.com/scottg521))
 
 ## 24.8.4
 
 ### 🐞 Bug fixes
 
-- Replace rw with node:fs. Resolves #1625 ([#1635](https://github.com/mapvina/mapvina-style-spec/pull/1635)) (by [@birkskyum](https://github.com/birkskyum))
+- Replace rw with node:fs. Resolves #1625 ([#1635](https://github.io/github/mapvina/mapvina-style-spec/pull/1635)) (by [@birkskyum](https://github.com/birkskyum))
 
 ## 24.8.3
 
 ### 🐞 Bug fixes
 
-- Restore Specification type exports dropped in v24.8.2 ([#1627](https://github.com/mapvina/mapvina-style-spec/pull/1627)) (by [@birkskyum](https://github.com/birkskyum))
+- Restore Specification type exports dropped in v24.8.2 ([#1627](https://github.io/github/mapvina/mapvina-style-spec/pull/1627)) (by [@birkskyum](https://github.com/birkskyum))
 
 ## 24.8.2
 
 ### ✨ Features and improvements
 
-- Move from rollup->rolldown and ts6->ts7 for builds/typecheck. ([#1132](https://github.com/mapvina/mapvina-style-spec/pull/1132)) (by [birkskyum](https://github.com/birkskyum))
+- Move from rollup->rolldown and ts6->ts7 for builds/typecheck. ([#1132](https://github.io/github/mapvina/mapvina-style-spec/pull/1132)) (by [birkskyum](https://github.com/birkskyum))
 
 ## 24.8.1
 
 ### ✨ Features and improvements
 
-- Add `AllPaintProperties` and `AllLayoutProperties` typescript definitions ([#1579](https://github.com/mapvina/mapvina-style-spec/pull/1579)) (by [@CommanderStorm](https://github.com/CommanderStorm))
-- Update TS definitions to allow `var` as the 3rd arg of comparator functions ([#1564](https://github.com/mapvina/mapvina-style-spec/pull/1564)) (by [k-yle](https://github.com/k-yle))
+- Add `AllPaintProperties` and `AllLayoutProperties` typescript definitions ([#1579](https://github.io/github/mapvina/mapvina-style-spec/pull/1579)) (by [@CommanderStorm](https://github.com/CommanderStorm))
+- Update TS definitions to allow `var` as the 3rd arg of comparator functions ([#1564](https://github.io/github/mapvina/mapvina-style-spec/pull/1564)) (by [k-yle](https://github.com/k-yle))
 
 ### 🐞 Bug fixes
 
-- Fix `get` expression inside `join` expression ([#1583](https://github.com/mapvina/mapvina-style-spec/pull/1583)) (by [1ec5](https://github.com/1ec5))
+- Fix `get` expression inside `join` expression ([#1583](https://github.io/github/mapvina/mapvina-style-spec/pull/1583)) (by [1ec5](https://github.com/1ec5))
 
 ## 24.8.0
 
 ### ✨ Features and improvements
 
-- Enable data driven stylng for  `line-{cap,round-limit,miter-limit}` ([#1566](https://github.com/mapvina/mapvina-style-spec/pull/1566)) (by [@CommanderStorm](https://github.com/CommanderStorm))
+- Enable data driven stylng for  `line-{cap,round-limit,miter-limit}` ([#1566](https://github.io/github/mapvina/mapvina-style-spec/pull/1566)) (by [@CommanderStorm](https://github.com/CommanderStorm))
 
 ## 24.7.0
 
 ### ✨ Features and improvements
 
-- Validate that `raster` layers do not specify both `resampling` and `raster-resampling` paint properties ([#1532](https://github.com/mapvina/mapvina-style-spec/pull/1532)) (by [larsmaxfield](https://github.com/larsmaxfield))
+- Validate that `raster` layers do not specify both `resampling` and `raster-resampling` paint properties ([#1532](https://github.io/github/mapvina/mapvina-style-spec/pull/1532)) (by [larsmaxfield](https://github.com/larsmaxfield))
 
 ## 24.6.0
 
 ### ✨ Features and improvements
 
-- Add `split` and `join` expressions ([#1518](https://github.com/mapvina/mapvina-style-spec/pull/1518)) (by [1ec5](https://github.com/1ec5))
+- Add `split` and `join` expressions ([#1518](https://github.io/github/mapvina/mapvina-style-spec/pull/1518)) (by [1ec5](https://github.com/1ec5))
 
 ## 24.5.0
 
 ### ✨ Features and improvements
 
-- Add "unit" option to "number-format" ([#1335](https://github.com/mapvina/mapvina-style-spec/pull/1335)) (by [ginnyTheCat](https://github.com/ginnyTheCat))
-- Add `resampling` paint property to raster, hillshade, and color relief layers ([#1447](https://github.com/mapvina/mapvina-style-spec/issues/1447)) (by [larsmaxfield](https://github.com/larsmaxfield))
-- Include 'transparent' as a permitted color name ([#1442](https://github.com/mapvina/mapvina-style-spec/pull/1442)) (by [zstadler](https://github.com/zstadler))
-- Migrate docs to zensical ([#1394](https://github.com/mapvina/mapvina-style-spec/pull/1394)) (by [CommanderStorm](https://github.com/CommanderStorm))
+- Add "unit" option to "number-format" ([#1335](https://github.io/github/mapvina/mapvina-style-spec/pull/1335)) (by [ginnyTheCat](https://github.com/ginnyTheCat))
+- Add `resampling` paint property to raster, hillshade, and color relief layers ([#1447](https://github.io/github/mapvina/mapvina-style-spec/issues/1447)) (by [larsmaxfield](https://github.com/larsmaxfield))
+- Include 'transparent' as a permitted color name ([#1442](https://github.io/github/mapvina/mapvina-style-spec/pull/1442)) (by [zstadler](https://github.com/zstadler))
+- Migrate docs to zensical ([#1394](https://github.io/github/mapvina/mapvina-style-spec/pull/1394)) (by [CommanderStorm](https://github.com/CommanderStorm))
 
 ## 24.4.1
 
 ### ✨ Features and improvements
 
-- Consolidate workflows ([#1423](https://github.com/mapvina/mapvina-style-spec/pull/1423)) (by [HarelM](https://github.com/HarelM))
+- Consolidate workflows ([#1423](https://github.io/github/mapvina/mapvina-style-spec/pull/1423)) (by [HarelM](https://github.com/HarelM))
 
 ## 24.4.0
 
 ### ✨ Features and improvements
 
-- Update Node.js to 24.11 ([#1418](https://github.com/mapvina/mapvina-style-spec/issues/1418))
-- Allow global state expressions in layer visibility ([#1364](https://github.com/mapvina/mapvina-style-spec/issues/1364))
-- Only alert to an unknown or required object-properties being undefined instead of any object-property being undefined ([#1415](https://github.com/mapvina/mapvina-style-spec/issues/1415))
+- Update Node.js to 24.11 ([#1418](https://github.io/github/mapvina/mapvina-style-spec/issues/1418))
+- Allow global state expressions in layer visibility ([#1364](https://github.io/github/mapvina/mapvina-style-spec/issues/1364))
+- Only alert to an unknown or required object-properties being undefined instead of any object-property being undefined ([#1415](https://github.io/github/mapvina/mapvina-style-spec/issues/1415))
 
 ### 🐞 Bug fixes
 
-- The optional `center` property is now validated to be a `[lon,lat]` array ([#1372](https://github.com/mapvina/mapvina-gl-js/issues/1372))
+- The optional `center` property is now validated to be a `[lon,lat]` array ([#1372](https://github.io/github/mapvina/mapvina-gl-js/issues/1372))
 
 ## 24.3.1
 
 ### 🐞 Bug fixes
 
-- The validator no longer fails if the style lacks a `glyphs` property ([#1347](https://github.com/mapvina/mapvina-style-spec/pull/1347))
+- The validator no longer fails if the style lacks a `glyphs` property ([#1347](https://github.io/github/mapvina/mapvina-style-spec/pull/1347))
 
 ## 24.3.0
 
@@ -101,30 +101,30 @@
 
 ### ✨ Features and improvements
 
-- Add note regarding visual artifacts that can appear with large width/size/offset values on vector tile layers, highlight remediation options ([#4160](https://github.com/mapvina/mapvina-gl-js/issues/4160))
+- Add note regarding visual artifacts that can appear with large width/size/offset values on vector tile layers, highlight remediation options ([#4160](https://github.io/github/mapvina/mapvina-gl-js/issues/4160))
 - Implement data-driven styling support for `line-dasharray` ([#5812](https://github.com/mapbox/mapbox-gl-js/pull/5812))
 
 ### 🐞 Bug fixes
 
-- Replace additional spread operator (`...`) due to esbuild limitations ([#1297](https://github.com/mapvina/mapvina-style-spec/pull/1297))
+- Replace additional spread operator (`...`) due to esbuild limitations ([#1297](https://github.io/github/mapvina/mapvina-style-spec/pull/1297))
 
 ## 24.1.1
 
 ### 🐞 Bug fixes
 
-- Replace spread operator (`...`) due to esbuild limitations ([#1286](https://github.com/mapvina/mapvina-style-spec/pull/1286))
+- Replace spread operator (`...`) due to esbuild limitations ([#1286](https://github.io/github/mapvina/mapvina-style-spec/pull/1286))
 
 ## 24.1.0
 
 ### ✨ Features and improvements
 
-- Added `global-state` parameter to `featureFilter` function ([#1279](https://github.com/mapvina/mapvina-style-spec/pull/1279))
+- Added `global-state` parameter to `featureFilter` function ([#1279](https://github.io/github/mapvina/mapvina-style-spec/pull/1279))
 
 ## 24.0.0
 
 ### ✨ Features and improvements
 
-- ⚠️ Change passing `global-state` to expression from the `evaluate` function to the constructor ([#1267](https://github.com/mapvina/mapvina-style-spec/pull/1267)) - you can add an empty object for global state to overcome this.
+- ⚠️ Change passing `global-state` to expression from the `evaluate` function to the constructor ([#1267](https://github.io/github/mapvina/mapvina-style-spec/pull/1267)) - you can add an empty object for global state to overcome this.
 
 ### 🐞 Bug fixes
 
@@ -132,275 +132,275 @@
 
 ### ✨ Features and improvements
 
-- Add new layer type: `color-relief ([#1067](https://github.com/mapvina/mapvina-style-spec/issues/1067))
+- Add new layer type: `color-relief ([#1067](https://github.io/github/mapvina/mapvina-style-spec/issues/1067))
 
 ### 🐞 Bug fixes
 
-- Add missing `global-state` expression typing ([#1130](https://github.com/mapvina/mapvina-style-spec/pull/1130))
+- Add missing `global-state` expression typing ([#1130](https://github.io/github/mapvina/mapvina-style-spec/pull/1130))
 
 ## 23.2.3
 
 ### ✨ Features and improvements
 
-- Restructure expression syntax documentation ([#1112](https://github.com/mapvina/mapvina-style-spec/pull/1112))
-- Add global state ref support ([#1120](https://github.com/mapvina/mapvina-style-spec/pull/1120))
+- Restructure expression syntax documentation ([#1112](https://github.io/github/mapvina/mapvina-style-spec/pull/1112))
+- Add global state ref support ([#1120](https://github.io/github/mapvina/mapvina-style-spec/pull/1120))
 
 ## 23.2.2
 
 ### 🐞 Bug fixes
 
-- Fix state validation - no error case ([#1109](https://github.com/mapvina/mapvina-style-spec/pull/1109))
+- Fix state validation - no error case ([#1109](https://github.io/github/mapvina/mapvina-style-spec/pull/1109))
 
 ## 23.2.1
 
 ### 🐞 Bug fixes
 
-- Validate that `numberArray` and `colorArray` values are non-empty ([#1094](https://github.com/mapvina/mapvina-style-spec/pull/1094))
+- Validate that `numberArray` and `colorArray` values are non-empty ([#1094](https://github.io/github/mapvina/mapvina-style-spec/pull/1094))
 
 ## 23.2.0
 
 ### ✨ Features and improvements
 
-- `glyphs` is now optional even if a symbol layer specifies `text-field`; if it is unset, `text-font` is interpreted as a fallback font list ([#1068](https://github.com/mapvina/mapvina-style-spec/pull/1068))
-- `hillshade` layer now supports multiple methods, and the `multidirectional` method supports array values for illumination properties ([#1088](https://github.com/mapvina/mapvina-style-spec/pull/1088))
-- Add `global-state` expression and `state` root property ([#1044](https://github.com/mapvina/mapvina-style-spec/pull/1044)).
+- `glyphs` is now optional even if a symbol layer specifies `text-field`; if it is unset, `text-font` is interpreted as a fallback font list ([#1068](https://github.io/github/mapvina/mapvina-style-spec/pull/1068))
+- `hillshade` layer now supports multiple methods, and the `multidirectional` method supports array values for illumination properties ([#1088](https://github.io/github/mapvina/mapvina-style-spec/pull/1088))
+- Add `global-state` expression and `state` root property ([#1044](https://github.io/github/mapvina/mapvina-style-spec/pull/1044)).
 
 ### 🐞 Bug fixes
 
-- Fix RuntimeError class, make it inherited from Error ([#983](https://github.com/mapvina/mapvina-style-spec/issues/983))
-- Validate that `layers` array items are objects instead of throwing an error if not ([#1026](https://github.com/mapvina/mapvina-style-spec/pull/1026))
+- Fix RuntimeError class, make it inherited from Error ([#983](https://github.io/github/mapvina/mapvina-style-spec/issues/983))
+- Validate that `layers` array items are objects instead of throwing an error if not ([#1026](https://github.io/github/mapvina/mapvina-style-spec/pull/1026))
 - Multiple fixes related to validating and parsing of strings containing object prototype keys
-   - Fix `validate_object` crashing when object prototype keys used in style's objects ([#1028](https://github.com/mapvina/mapvina-style-spec/pull/1028))
-   - Fix `validate_color` crashing when object prototype keys used as color strings ([#1036](https://github.com/mapvina/mapvina-style-spec/pull/1036))
-   - Fix color coercion in expressions (e.g. `to_color`) producing invalid colors when object prototype keys used as color strings ([#1036](https://github.com/mapvina/mapvina-style-spec/pull/1036))
+   - Fix `validate_object` crashing when object prototype keys used in style's objects ([#1028](https://github.io/github/mapvina/mapvina-style-spec/pull/1028))
+   - Fix `validate_color` crashing when object prototype keys used as color strings ([#1036](https://github.io/github/mapvina/mapvina-style-spec/pull/1036))
+   - Fix color coercion in expressions (e.g. `to_color`) producing invalid colors when object prototype keys used as color strings ([#1036](https://github.io/github/mapvina/mapvina-style-spec/pull/1036))
 
 ## 23.1.0
 
 ### ✨ Features and improvements
 
-- Add `vertical-align` option to `format` expression ([#832](https://github.com/mapvina/mapvina-style-spec/issues/832))
+- Add `vertical-align` option to `format` expression ([#832](https://github.io/github/mapvina/mapvina-style-spec/issues/832))
 
 ## 23.0.0
 
 ### ✨ Features and improvements
 
-- Adjust `geometry-type` expression specification and MapVina GL JS implementation to the historic behavior of only returning `Point`, `LineString` or `Polygon`, not the `Multi...` variants of these. This reverts a recent change to the implementation, which was causing issues in a [large number of styles](https://github.com/mapvina/mapvina-style-spec/issues/965).
+- Adjust `geometry-type` expression specification and MapVina GL JS implementation to the historic behavior of only returning `Point`, `LineString` or `Polygon`, not the `Multi...` variants of these. This reverts a recent change to the implementation, which was causing issues in a [large number of styles](https://github.io/github/mapvina/mapvina-style-spec/issues/965).
 
 ## 22.0.1
 
 ### 🐞 Bug fixes
 
-- ~~Fix issue with `geomtry-type` filter ([#924](https://github.com/mapvina/mapvina-style-spec/pull/924))~~ This was reverted in 23.0.0 due to causing issues in [a large number of styles](https://github.com/mapvina/mapvina-style-spec/issues/965).
+- ~~Fix issue with `geomtry-type` filter ([#924](https://github.io/github/mapvina/mapvina-style-spec/pull/924))~~ This was reverted in 23.0.0 due to causing issues in [a large number of styles](https://github.io/github/mapvina/mapvina-style-spec/issues/965).
 
 ## 22.0.0
 
 ### ✨ Features and improvements
 
-- Use named imports internally - no package entrypoints changed ([#904](https://github.com/mapvina/mapvina-style-spec/pull/904))
-- Add projection type expression syntax ([#888](https://github.com/mapvina/mapvina-style-spec/pull/888))
+- Use named imports internally - no package entrypoints changed ([#904](https://github.io/github/mapvina/mapvina-style-spec/pull/904))
+- Add projection type expression syntax ([#888](https://github.io/github/mapvina/mapvina-style-spec/pull/888))
 
 ## 21.2.0
 
 ### ✨ Features and improvements
 
-- Add `vertical-perspective` projection ([#890](https://github.com/mapvina/mapvina-style-spec/pull/890))
+- Add `vertical-perspective` projection ([#890](https://github.io/github/mapvina/mapvina-style-spec/pull/890))
 
 ## 21.1.0
 
 ### ✨ Features and improvements
 
-- Added `centerAltitude` property to stylesheet ([#851](https://github.com/mapvina/mapvina-style-spec/issues/851))
+- Added `centerAltitude` property to stylesheet ([#851](https://github.io/github/mapvina/mapvina-style-spec/issues/851))
 
 ## 21.0.0
 
 ### ✨ Features and improvements
 
-- ~~Aligned the implementation of `["geometry-type"]` with [its spec](https://mapvina.com/mapvina-style-spec/expressions/#geometry-type). Now, when applicable, `["geometry-type"]` returns values not available while using `"$type"`: `"MultiPoint"`, `"MultiLineString"`, and `"MultiPolygon"`. The behaviour of `"$type"` has not changed. ([#519](https://github.com/mapvina/mapvina-style-spec/pull/519))~~ This was reverted in 23.0.0 due to causing issues in [a large number of styles](https://github.com/mapvina/mapvina-style-spec/issues/965).
+- ~~Aligned the implementation of `["geometry-type"]` with [its spec](https://mapvina.io/github/mapvina-style-spec/expressions/#geometry-type). Now, when applicable, `["geometry-type"]` returns values not available while using `"$type"`: `"MultiPoint"`, `"MultiLineString"`, and `"MultiPolygon"`. The behaviour of `"$type"` has not changed. ([#519](https://github.io/github/mapvina/mapvina-style-spec/pull/519))~~ This was reverted in 23.0.0 due to causing issues in [a large number of styles](https://github.io/github/mapvina/mapvina-style-spec/issues/965).
 
 ## 20.4.0
 
 ### ✨ Features and improvements
 
-* Added `roll` property to stylesheet ([#850](https://github.com/mapvina/mapvina-style-spec/issues/850))
+* Added `roll` property to stylesheet ([#850](https://github.io/github/mapvina/mapvina-style-spec/issues/850))
 
 ## 20.3.1
 
 ### 🐞 Bug fixes
 
-- The `index-of`, `length`, and `slice` expression operators count a UTF-16 surrogate pair as a single character. ([#779](https://github.com/mapvina/mapvina-style-spec/pull/779))
+- The `index-of`, `length`, and `slice` expression operators count a UTF-16 surrogate pair as a single character. ([#779](https://github.io/github/mapvina/mapvina-style-spec/pull/779))
 
 ## 20.3.0
 
 ### ✨ Features and improvements
 
-- Added `Projection` specifications [#687](https://github.com/mapvina/mapvina-style-spec/pull/687)
-- Updated `Sky` specifications to support atmosphere and other required features [#686](https://github.com/mapvina/mapvina-style-spec/pull/686)
+- Added `Projection` specifications [#687](https://github.io/github/mapvina/mapvina-style-spec/pull/687)
+- Updated `Sky` specifications to support atmosphere and other required features [#686](https://github.io/github/mapvina/mapvina-style-spec/pull/686)
 
 ### 🐞 Bug fixes
 
-- Change `assert` to `with` in JSON modules. Requires Node.js 18.20.0 or later, and supports Node.js 22.0.0 or later - [#675](https://github.com/mapvina/mapvina-style-spec/pull/675)
+- Change `assert` to `with` in JSON modules. Requires Node.js 18.20.0 or later, and supports Node.js 22.0.0 or later - [#675](https://github.io/github/mapvina/mapvina-style-spec/pull/675)
 
 ## 20.2.0
 
 ### ✨ Features and improvements
 
-- Support `distance` expression in web style spec - [#642](https://github.com/mapvina/mapvina-style-spec/pull/642)
+- Support `distance` expression in web style spec - [#642](https://github.io/github/mapvina/mapvina-style-spec/pull/642)
 
 ## 20.1.1
 
 ### 🐞 Bug fixes
 
-- Add missing sky in diff results [#518](https://github.com/mapvina/mapvina-style-spec/pull/518)
+- Add missing sky in diff results [#518](https://github.io/github/mapvina/mapvina-style-spec/pull/518)
 
 ## 20.1.0
 
 ### ✨ Features and improvements
 
-- Add `latest.json` to dist folder to allow using the full version of the spec [#490](https://github.com/mapvina/mapvina-style-spec/pull/490)
+- Add `latest.json` to dist folder to allow using the full version of the spec [#490](https://github.io/github/mapvina/mapvina-style-spec/pull/490)
 
 ## 20.0.0
 
 ### ✨ Features and improvements
 
-* Add back `migrate`, `validate` and `format` to the exported methods of this package [#464](https://github.com/mapvina/mapvina-style-spec/pull/464)
-* Add terrain to diff method and improve type. This also removes the `operations` from the API [#460](https://github.com/mapvina/mapvina-style-spec/pull/460)
-* Improve the type of `data` in the `GeoJSONSourceSpecification` for TypeScript [#463](https://github.com/mapvina/mapvina-style-spec/pull/463).
-* Add expression tests to this repo [#476](https://github.com/mapvina/mapvina-style-spec/pull/476)
-* Add Sky spec, this is only the definition, no implementation at this point, only validation [#478](https://github.com/mapvina/mapvina-style-spec/pull/478)
+* Add back `migrate`, `validate` and `format` to the exported methods of this package [#464](https://github.io/github/mapvina/mapvina-style-spec/pull/464)
+* Add terrain to diff method and improve type. This also removes the `operations` from the API [#460](https://github.io/github/mapvina/mapvina-style-spec/pull/460)
+* Improve the type of `data` in the `GeoJSONSourceSpecification` for TypeScript [#463](https://github.io/github/mapvina/mapvina-style-spec/pull/463).
+* Add expression tests to this repo [#476](https://github.io/github/mapvina/mapvina-style-spec/pull/476)
+* Add Sky spec, this is only the definition, no implementation at this point, only validation [#478](https://github.io/github/mapvina/mapvina-style-spec/pull/478)
 
 ### 🐞 Bug fixes
 
-- Fix queryRenderedFeatures Within a FeatureCollection of polygons [#477](https://github.com/mapvina/mapvina-style-spec/pull/477)
+- Fix queryRenderedFeatures Within a FeatureCollection of polygons [#477](https://github.io/github/mapvina/mapvina-style-spec/pull/477)
 
 ## 19.3.3
 
 ### ✨ Features and improvements
 
-* Improve types for feature to include `unknown` [#365](https://github.com/mapvina/mapvina-style-spec/pull/365)
-* Improve sprite documentation and supported versions [#390](https://github.com/mapvina/mapvina-style-spec/pull/390)
+* Improve types for feature to include `unknown` [#365](https://github.io/github/mapvina/mapvina-style-spec/pull/365)
+* Improve sprite documentation and supported versions [#390](https://github.io/github/mapvina/mapvina-style-spec/pull/390)
 
 
 ## 19.3.2
 
 ### ✨ Features and improvements
 
-* Add raster dem source `redFactor`, `greenFactor`, `blueFactor`, `baseShift` properties [#326](https://github.com/mapvina/mapvina-style-spec/issues/326)
-* Improve error messages around `hillshade` layers not using `raster-dem` sources [#353](https://github.com/mapvina/mapvina-style-spec/pull/353)
+* Add raster dem source `redFactor`, `greenFactor`, `blueFactor`, `baseShift` properties [#326](https://github.io/github/mapvina/mapvina-style-spec/issues/326)
+* Improve error messages around `hillshade` layers not using `raster-dem` sources [#353](https://github.io/github/mapvina/mapvina-style-spec/pull/353)
 
 ## 19.3.1
 
 ### ✨ Features and improvements
 
-* Document `raster-fade-duration` property's effect on rendering a video. [#297](https://github.com/mapvina/mapvina-style-spec/pull/297)
-* Add and expose `isZoomExpression`. [#267](https://github.com/mapvina/mapvina-style-spec/issues/267)
+* Document `raster-fade-duration` property's effect on rendering a video. [#297](https://github.io/github/mapvina/mapvina-style-spec/pull/297)
+* Add and expose `isZoomExpression`. [#267](https://github.io/github/mapvina/mapvina-style-spec/issues/267)
 
 ## 19.3.0
 
 ### ✨ Features and improvements
 
-* Add style property definition and validation for symbol layer `text-variable-anchor-offset` layout property. [#112](https://github.com/mapvina/mapvina-style-spec/issues/112)
+* Add style property definition and validation for symbol layer `text-variable-anchor-offset` layout property. [#112](https://github.io/github/mapvina/mapvina-style-spec/issues/112)
 
 ## 19.2.2
 
 ### ✨ Features and improvements
 
-* Trim css color before parsing [#255](https://github.com/mapvina/mapvina-style-spec/pull/255)
+* Trim css color before parsing [#255](https://github.io/github/mapvina/mapvina-style-spec/pull/255)
 
 ## 19.2.1
 ### ✨ Features and improvements
 
-* Skip running color match regex for hex color or rgb, if not required [#186](https://github.com/mapvina/mapvina-style-spec/pull/186)
+* Skip running color match regex for hex color or rgb, if not required [#186](https://github.io/github/mapvina/mapvina-style-spec/pull/186)
 
 ## 19.2.0
 
 ### ✨ Features and improvements
 
-* Remove mapbox reference from docs and test cases [#111](https://github.com/mapvina/mapvina-style-spec/issues/111)
-* Custom CSS Color 4 compliant css color parser [#175](https://github.com/mapvina/mapvina-style-spec/issues/175)
+* Remove mapbox reference from docs and test cases [#111](https://github.io/github/mapvina/mapvina-style-spec/issues/111)
+* Custom CSS Color 4 compliant css color parser [#175](https://github.io/github/mapvina/mapvina-style-spec/issues/175)
 
 ## 19.1.0
 
 ### ✨ Features and improvements
 
-* Use D50 white point instead of D65 in HCL/LAB color spaces [#146](https://github.com/mapvina/mapvina-style-spec/pull/146)
-* Automated migration of not-CSS-Color-specification-compliant hsl color values [#135](https://github.com/mapvina/mapvina-style-spec/pull/135)
+* Use D50 white point instead of D65 in HCL/LAB color spaces [#146](https://github.io/github/mapvina/mapvina-style-spec/pull/146)
+* Automated migration of not-CSS-Color-specification-compliant hsl color values [#135](https://github.io/github/mapvina/mapvina-style-spec/pull/135)
 
 ## 19.0.1
 
 ### 🐛 Bug fixes
 
-* Restore support for `Color` instances in `Color.parse` [#128](https://github.com/mapvina/mapvina-style-spec/pull/128)
+* Restore support for `Color` instances in `Color.parse` [#128](https://github.io/github/mapvina/mapvina-style-spec/pull/128)
 
 
 ## 19.0.0
 
 ### ✨ Features and improvements
 
-* Add support for defining colors using CSS Color 4 syntax [#94](https://github.com/mapvina/mapvina-style-spec/pull/94)
+* Add support for defining colors using CSS Color 4 syntax [#94](https://github.io/github/mapvina/mapvina-style-spec/pull/94)
 
 ### 🐛 Bug fixes
 
-* Fix color interpolation in HCL and LAB color spaces to use d50 white point instead of d65, in conformance with CSS spec [#146](https://github.com/mapvina/mapvina-style-spec/pull/146)
+* Fix color interpolation in HCL and LAB color spaces to use d50 white point instead of d65, in conformance with CSS spec [#146](https://github.io/github/mapvina/mapvina-style-spec/pull/146)
 
-* Fix incorrect color interpolation in HCL and LAB color spaces when interpolation results are outside the sRGB gamut. [#94](https://github.com/mapvina/mapvina-style-spec/pull/94)
+* Fix incorrect color interpolation in HCL and LAB color spaces when interpolation results are outside the sRGB gamut. [#94](https://github.io/github/mapvina/mapvina-style-spec/pull/94)
 
 ### Breaking changes
 
-Interpretation of interpolation of colors with alpha channel equal to 0 has changed. When interpolating colors with alpha channel equal to 0, the values of the other color channels in the specified color space are included in the calculation. Previously they were ignored and only the alpha value of the other, not fully transparent, color was interpolated. [#94](https://github.com/mapvina/mapvina-style-spec/pull/94)
+Interpretation of interpolation of colors with alpha channel equal to 0 has changed. When interpolating colors with alpha channel equal to 0, the values of the other color channels in the specified color space are included in the calculation. Previously they were ignored and only the alpha value of the other, not fully transparent, color was interpolated. [#94](https://github.io/github/mapvina/mapvina-style-spec/pull/94)
 
 
 ## 18.0.0
 * The mapvina style specification and utilities now has it's own repository. The major bump is mainly a precautionary measure, in case the restructuring causes friction.
 
 ## 17.1.0
-* Add support for multiple sprites in one style [#1805](https://github.com/mapvina/mapvina-style-spec/pull/1805)
+* Add support for multiple sprites in one style [#1805](https://github.io/github/mapvina/mapvina-style-spec/pull/1805)
 
 ## 17.0.2
 
-* Fix errors when running style-spec bin scripts and added missing help. Removed unnecessary script 'gl-style-composite'. [#1971](https://github.com/mapvina/mapvina-gl-js/pull/1971)
+* Fix errors when running style-spec bin scripts and added missing help. Removed unnecessary script 'gl-style-composite'. [#1971](https://github.io/github/mapvina/mapvina-gl-js/pull/1971)
 
 ## 17.0.1
 
-* Generated typings file as not created in the build process and was added in this version [#1470](https://github.com/mapvina/mapvina-gl-js/pull/1470)
+* Generated typings file as not created in the build process and was added in this version [#1470](https://github.io/github/mapvina/mapvina-gl-js/pull/1470)
 
 ## 17.0.0
 
 ### Breaking changes
 
-* Renamed `ParsingError` to `ExpressionParsingError` as there were two with the same name and added typescript typings [#1468](https://github.com/mapvina/mapvina-gl-js/pull/1468)
+* Renamed `ParsingError` to `ExpressionParsingError` as there were two with the same name and added typescript typings [#1468](https://github.io/github/mapvina/mapvina-gl-js/pull/1468)
 
 ## 16.1.0
 
 ### ✨ Features and improvements
-* Update `icon-padding` symbol layout property to support asymmetric padding [#1289](https://github.com/mapvina/mapvina-gl-js/pull/1289)
+* Update `icon-padding` symbol layout property to support asymmetric padding [#1289](https://github.io/github/mapvina/mapvina-gl-js/pull/1289)
 
 ## 16.0.0
 
 ### Breaking changes
 
-* index.js has been renamed to index.cjs to fix the 'is treated as an ES module file' error in node 12+ [#1223](https://github.com/mapvina/mapvina-gl-js/pull/1223)
+* index.js has been renamed to index.cjs to fix the 'is treated as an ES module file' error in node 12+ [#1223](https://github.io/github/mapvina/mapvina-gl-js/pull/1223)
 
 ## 15.1.0
 
 ### ✨ Features and improvements
-* Add `icon-overlap` and `text-overlap` symbol layout properties [#347](https://github.com/mapvina/mapvina-gl-js/pull/347)
+* Add `icon-overlap` and `text-overlap` symbol layout properties [#347](https://github.io/github/mapvina/mapvina-gl-js/pull/347)
 * Deprecate `icon-allow-overlap` and `text-allow-overlap` symbol layout properties. `icon-overlap` and `text-overlap` are their replacements.
 
 ## 15.0.0
 
 ### Breaking changes
 
-* The migration to TypeScript [#209](https://github.com/mapvina/mapvina-gl-js/pull/209) removed support for the `mapbox://` protocol.
+* The migration to TypeScript [#209](https://github.io/github/mapvina/mapvina-gl-js/pull/209) removed support for the `mapbox://` protocol.
 
 ## 14.0.2
 
 ### ✨ Features and improvements
-* Fix node entry points [#400](https://github.com/mapvina/mapvina-gl-js/issues/400)
+* Fix node entry points [#400](https://github.io/github/mapvina/mapvina-gl-js/issues/400)
 
 ## 14.0.1
 
 ### ✨ Features and improvements
-* Migrate MapVina GL JS and the style specification to TypeScript [#209](https://github.com/mapvina/mapvina-gl-js/pull/209)
+* Migrate MapVina GL JS and the style specification to TypeScript [#209](https://github.io/github/mapvina/mapvina-gl-js/pull/209)
 
 ## 14.0.0
 

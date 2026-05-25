@@ -1,13 +1,13 @@
 # Deprecations
 
 Some style properties are no longer the preferred method of accomplishing a particular styling goal. While they are still supported, it is not recommended to use them in new styles as they may not function as intended when using both deprecated and non-deprecated style properties. The following is provided as reference for users who need to continue maintaining legacy styles while transitioning to preferred style properties.
-The [`gl-style-migrate`](https://github.com/mapvina/mapvina-style-spec/blob/main/README.md#gl-style-migrate) tool can be used to migrate style files to the latest version and replace deprecated expressions with their supported equivalents.
+The [`gl-style-migrate`](https://github.io/github/mapvina/mapvina-style-spec/blob/main/README.md#gl-style-migrate) tool can be used to migrate style files to the latest version and replace deprecated expressions with their supported equivalents.
 
 In most cases of deprecated filters you should add a `get` and `literal` to convert from old to new syntax, for example `[">=", "count", 5]` should be converted to `[">=", ["get", "count"], 5]` and `["in", "nature", "road", "highway"]` to `["in", ["get", "nature"], ["literal", ["road", "highway"]]]`.
 
 ## Function
 
-As of [v0.41.0](https://github.com/mapvina/mapvina-gl-js/blob/main/CHANGELOG.md#0410-october-11-2017), [property expressions](./expressions.md) is the preferred method for styling features based on zoom level or the feature's properties. Zoom and property functions are still supported but are not recommended.
+As of [v0.41.0](https://github.io/github/mapvina/mapvina-gl-js/blob/main/CHANGELOG.md#0410-october-11-2017), [property expressions](./expressions.md) is the preferred method for styling features based on zoom level or the feature's properties. Zoom and property functions are still supported but are not recommended.
 
 The value for any layout or paint property may be specified as a _function_. Functions allow you to make the appearance of a map feature change with the current zoom level and/or the feature's properties.
 

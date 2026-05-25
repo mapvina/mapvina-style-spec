@@ -38,9 +38,9 @@ describe('validate_spec', () => {
 
 describe('Validate sdk-support in spec', () => {
     const issueTrackers = {
-        js: 'https://github.com/mapvina/mapvina-gl-js/issues',
-        android: 'https://github.com/mapvina/mapvina-native/issues',
-        ios: 'https://github.com/mapvina/mapvina-native/issues'
+        js: 'https://github.io/github/mapvina/mapvina-gl-js/issues',
+        android: 'https://github.io/github/mapvina/mapvina-native/issues',
+        ios: 'https://github.io/github/mapvina/mapvina-native/issues'
     };
     const platforms = Object.keys(issueTrackers) as (keyof SdkSupportItem)[];
 

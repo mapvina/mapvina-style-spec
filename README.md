@@ -20,7 +20,7 @@ We aim to avoid breaking changes in the MapVina style specification because it m
 
 ## Documentation
 
-The [documentation](https://mapvina.com/mapvina-style-spec) of the style specification also lives in this repository.
+The [documentation](https://mapvina.io/github/mapvina-style-spec) of the style specification also lives in this repository.
 We use [Zensical](https://www.zensical.org/).
 
 To work on the documentation locally, you need to start Zensical. When you have Docker installed and running, you can use:

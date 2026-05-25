@@ -1,6 +1,6 @@
 site_name: MapVina Style Spec
-site_url: https://www.mapvina.com/mapvina-style-spec/
-repo_url: https://github.com/mapvina/mapvina-style-spec
+site_url: https://www.mapvina.io/github/mapvina-style-spec/
+repo_url: https://github.io/github/mapvina/mapvina-style-spec
 site_description: Documentation for the MapVina Style Specification
 extra_css:
   - assets/extra.css
@@ -49,13 +49,13 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@mapvina
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/mapvina
+      link: https://x.io/github/mapvina
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/mapvina
     - icon: fontawesome/brands/slack
       link: https://osmus.slack.com/archives/C01G3D28DAB
     - icon: fontawesome/brands/github
-      link: https://github.com/mapvina
+      link: https://github.io/github/mapvina
 plugins:
   - search
   - social:
