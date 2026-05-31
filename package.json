@@ -4,15 +4,14 @@
   "version": "1.0.0",
   "author": "MapVina",
   "keywords": [
-    "mapbox",
-    "mapbox-gl",
-    "mapbox-gl-js",
     "mapvina",
     "mapvina-gl",
-    "mapvina-gl-js"
+    "mapvina-gl-js",
+    "map-style-spec",
+    "vietnam"
   ],
   "license": "ISC",
-  "homepage": "https://mapvina.io/github/mapvina-style-spec/",
+  "homepage": "https://github.com/Sunny0025-IT/mapvina-style-spec#readme",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -40,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.io/github/mapvina/mapvina-style-spec"
+    "url": "https://github.com/Sunny0025-IT/mapvina-style-spec"
   },
   "bin": {
     "gl-style-migrate": "dist/gl-style-migrate.mjs",
