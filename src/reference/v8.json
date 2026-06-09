@@ -42,8 +42,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.0.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2980",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2980"
+          "android": "https://github.com/mapvina/mapvina-native/issues/2980",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2980"
         }
       }
     },
@@ -74,13 +74,13 @@
         },
         "0-85 degrees": {
           "js": "2.0.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/1909",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/1909"
+          "android": "https://github.com/mapvina/mapvina-native/issues/1909",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/1909"
         },
         "0-180 degrees": {
           "js": "5.0.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/1909",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/1909"
+          "android": "https://github.com/mapvina/mapvina-native/issues/1909",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/1909"
         }
       }
     },
@@ -93,8 +93,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.0.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2941",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2941"
+          "android": "https://github.com/mapvina/mapvina-native/issues/2941",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2941"
         }
       }
     },
@@ -113,8 +113,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.6.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       }
     },
@@ -214,8 +214,8 @@
         },
         "omit to use local fonts": {
           "js": "5.11.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/165",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/165"
+          "android": "https://github.com/mapvina/mapvina-native/issues/165",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/165"
         }
       }
     },
@@ -243,7 +243,7 @@
       },
       "sdk-support": {
         "basic functionality": {
-          "js": "https://github.com/Sunny0025-IT/mapvina-gl-js/issues/6637",
+          "js": "https://github.com/mapvina/mapvina-gl-js/issues/6637",
           "android": "11.13.0",
           "ios": "6.18.0"
         }
@@ -371,7 +371,7 @@
           "doc": "Mapbox Vector Tiles. See http://github.com/mapbox/vector-tile-spec for more info."
         },
         "mlt": {
-          "doc": "MapVina Vector Tiles. See https://github.com/Sunny0025-IT/mapvina-tile-spec for more info."
+          "doc": "MapVina Vector Tiles. See https://github.com/mapvina/mapvina-tile-spec for more info."
         }
       },
       "default": "mvt",
@@ -551,8 +551,8 @@
         },
         "custom": {
           "js": "3.4.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2783",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2783"
         }
       }
     },
@@ -563,8 +563,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "3.4.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2783",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2783"
         }
       }
     },
@@ -575,8 +575,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "3.4.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2783",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2783"
         }
       }
     },
@@ -587,8 +587,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "3.4.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2358",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2358",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2783"
         }
       }
     },
@@ -599,8 +599,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "3.4.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2783"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2783",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2783"
         }
       }
     },
@@ -950,8 +950,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1008,8 +1008,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1066,8 +1066,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1100,8 +1100,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1134,8 +1134,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1171,8 +1171,8 @@
         },
         "data-driven styling": {
           "js": "5.22.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4194",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4194"
         }
       },
       "expression": {
@@ -1237,8 +1237,8 @@
         },
         "data-driven styling": {
           "js": "5.22.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4194",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4194"
         }
       },
       "expression": {
@@ -1267,8 +1267,8 @@
         },
         "data-driven styling": {
           "js": "5.22.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4194"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4194",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4194"
         }
       },
       "expression": {
@@ -1324,8 +1324,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -1517,8 +1517,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "2.1.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/251",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/251"
+          "android": "https://github.com/mapvina/mapvina-native/issues/251",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/251"
         }
       },
       "expression": {
@@ -1793,8 +1793,8 @@
         },
         "data-driven styling": {
           "js": "2.2.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2754",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2754"
+          "android": "https://github.com/mapvina/mapvina-native/issues/2754",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2754"
         }
       },
       "expression": {
@@ -2032,8 +2032,8 @@
         },
         "`viewport-glyph` value": {
           "js": "2.1.8",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/250",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/250"
+          "android": "https://github.com/mapvina/mapvina-native/issues/250",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/250"
         }
       },
       "expression": {
@@ -2093,9 +2093,9 @@
           "ios": "4.0.0"
         },
         "local fonts": {
-          "js": "https://github.com/Sunny0025-IT/mapvina-gl-js/issues/3302",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/165",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/165"
+          "js": "https://github.com/mapvina/mapvina-gl-js/issues/3302",
+          "android": "https://github.com/mapvina/mapvina-native/issues/165",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/165"
         }
       },
       "expression": {
@@ -2371,8 +2371,8 @@
         },
         "data-driven styling": {
           "js": "3.3.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2358",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2358"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/2358",
+          "android": "https://github.com/mapvina/mapvina-native/issues/2358"
         }
       },
       "expression": {
@@ -2715,8 +2715,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "2.1.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/251",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/251"
+          "android": "https://github.com/mapvina/mapvina-native/issues/251",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/251"
         }
       },
       "expression": {
@@ -2792,8 +2792,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -2826,8 +2826,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -2860,8 +2860,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -2894,8 +2894,8 @@
         },
         "`global state` expression": {
           "js": "5.16.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+          "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
         }
       },
       "expression": {
@@ -3600,8 +3600,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           }
         }
       },
@@ -3639,8 +3639,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           }
         }
       },
@@ -3912,7 +3912,7 @@
                 },
                 "vertical-align": {
                   "type": "enum",
-                  "doc": "Aligns a vertical text section or image in relation to the row it belongs to. Refer to [the design proposal](https://github.com/Sunny0025-IT/mapvina-style-spec/issues/832) for more details.",
+                  "doc": "Aligns a vertical text section or image in relation to the row it belongs to. Refer to [the design proposal](https://github.com/mapvina/mapvina-style-spec/issues/832) for more details.",
                   "default": "bottom",
                   "example": "bottom",
                   "values": {
@@ -3956,8 +3956,8 @@
           },
           "vertical-align": {
             "js": "5.1.0",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3055",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3055"
+            "android": "https://github.com/mapvina/mapvina-native/issues/3055",
+            "ios": "https://github.com/mapvina/mapvina-native/issues/3055"
           },
           "image": {
             "js": "1.6.0",
@@ -4014,8 +4014,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "5.6.0",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/3302"
+            "android": "https://github.com/mapvina/mapvina-native/issues/3302",
+            "ios": "https://github.com/mapvina/mapvina-native/issues/3302"
           }
         }
       },
@@ -4077,8 +4077,8 @@
           },
           "`unit` property": {
             "js": "5.20.0",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4071",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4071"
+            "android": "https://github.com/mapvina/mapvina-native/issues/4071",
+            "ios": "https://github.com/mapvina/mapvina-native/issues/4071"
           }
         }
       },
@@ -4415,8 +4415,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "0.46.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/1698",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/1698"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/1698",
+            "android": "https://github.com/mapvina/mapvina-native/issues/1698"
           }
         }
       },
@@ -5710,8 +5710,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "5.20.0",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4133",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4133"
+            "android": "https://github.com/mapvina/mapvina-native/issues/4133",
+            "ios": "https://github.com/mapvina/mapvina-native/issues/4133"
           }
         }
       },
@@ -5740,8 +5740,8 @@
         "sdk-support": {
           "basic functionality": {
             "js": "5.20.0",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4133",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4133"
+            "android": "https://github.com/mapvina/mapvina-native/issues/4133",
+            "ios": "https://github.com/mapvina/mapvina-native/issues/4133"
           }
         }
       }
@@ -5960,8 +5960,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "2.2.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/252",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/252"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/252",
+          "android": "https://github.com/mapvina/mapvina-native/issues/252"
         }
       }
     },
@@ -5973,8 +5973,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "2.2.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/252",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/252"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/252",
+          "android": "https://github.com/mapvina/mapvina-native/issues/252"
         }
       }
     }
@@ -6674,8 +6674,8 @@
         },
         "data-driven styling": {
           "js": "5.8.0",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/744",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/744"
+          "ios": "https://github.com/mapvina/mapvina-native/issues/744",
+          "android": "https://github.com/mapvina/mapvina-native/issues/744"
         }
       },
       "expression": {
@@ -7782,8 +7782,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.20.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4117",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4117"
         }
       },
       "expression": {
@@ -8069,8 +8069,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.20.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4117",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4117"
         }
       },
       "expression": {
@@ -8147,8 +8147,8 @@
       "sdk-support": {
         "basic functionality": {
           "js": "5.20.0",
-          "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117",
-          "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/4117"
+          "android": "https://github.com/mapvina/mapvina-native/issues/4117",
+          "ios": "https://github.com/mapvina/mapvina-native/issues/4117"
         }
       },
       "expression": {
@@ -8307,13 +8307,13 @@
           },
           "interpolate-hcl": {
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           },
           "interpolate-lab":{
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           }
         }
       },
@@ -8348,13 +8348,13 @@
           },
           "interpolate-hcl": {
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           },
           "interpolate-lab":{
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           }
         }
       },
@@ -8410,13 +8410,13 @@
           },
           "interpolate-hcl": {
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           },
           "interpolate-lab":{
             "js": "0.49.0",
-            "ios": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784",
-            "android": "https://github.com/Sunny0025-IT/mapvina-native/issues/2784"
+            "ios": "https://github.com/mapvina/mapvina-native/issues/2784",
+            "android": "https://github.com/mapvina/mapvina-native/issues/2784"
           }
         }
       }
